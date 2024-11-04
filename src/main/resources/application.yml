@@ -12,7 +12,7 @@ spring:
         registration:
           keycloak:
             client-id: myclient
-            client-secret: OBRQUrTmYpZDizilYZqdtHdS33dDSDE2
+            client-secret: SECRET
             scope: openid
 server:
   port: 8083
